@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://website/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/dongsheng0123/portfolio.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://website/</loc>
+<loc>https://github.com/dongsheng0123/portfolio.github.io/</loc>
 </url>
 <url>
-<loc>https://website/kan-de-jian-wo-ma.html</loc>
+<loc>https://github.com/dongsheng0123/portfolio.github.io/kan-de-jian-wo-ma.html</loc>
 <lastmod>2025-02-21T15:12:28+08:00</lastmod>
 </url>
 </urlset>

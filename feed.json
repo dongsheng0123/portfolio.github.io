@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Portfolio",
     "description": "",
-    "home_page_url": "https://website",
-    "feed_url": "https://website/feed.json",
+    "home_page_url": "https://github.com/dongsheng0123/portfolio.github.io",
+    "feed_url": "https://github.com/dongsheng0123/portfolio.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "lllds"
     },
     "items": [
         {
-            "id": "https://website/kan-de-jian-wo-ma.html",
-            "url": "https://website/kan-de-jian-wo-ma.html",
+            "id": "https://github.com/dongsheng0123/portfolio.github.io/kan-de-jian-wo-ma.html",
+            "url": "https://github.com/dongsheng0123/portfolio.github.io/kan-de-jian-wo-ma.html",
             "title": "看得见我吗",
             "author": {
                 "name": "lllds"
